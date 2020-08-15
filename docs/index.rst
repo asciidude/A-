@@ -1,6 +1,5 @@
 A-
 ==
-The easiest programming language made with scratch
 
 Variable meanings
 -----------------
